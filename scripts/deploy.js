@@ -19,7 +19,7 @@ async function main() {
 
   await stem.deployed();
 
-  console.log("Stem conytract deployed to:", stem.address);
+  console.log("Stem contract deployed to:", stem.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere

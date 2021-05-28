@@ -30,12 +30,12 @@ module.exports = {
       bsctestnet: {
           url: "https://data-seed-prebsc-1-s1.binance.org:8545",
           chainId: 97,
-          accounts: {mnemonic: "estival sense three six doll expose slogan fish jump romance require flag"}
+          accounts: {mnemonic: mnemonic}
       },
       bscmainnet: {
           url: "https://bsc-dataseed.binance.org/",
           chainId: 56,
-          accounts: {mnemonic: "festival sense three six doll expose slogan fish jump romance require flag"}
+          accounts: {mnemonic: mnemonic}
       }
   }
 };
